@@ -51,4 +51,3 @@ Estoy enfocada en aprender **HTML, CSS y JavaScript** para crear sitios web herm
 ---
 
 
-Si quieres, puedo ayudarte a agregar redes o portafolio cuando lo tengas.
