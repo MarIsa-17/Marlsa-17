@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Isa Nuñez  
+# 👋 ¡Hola! Soy Isabel Nuñez  
 
 🎨 **Diseñadora gráfica**  
 💻 Estudiante de **Desarrollo Web Frontend**  
